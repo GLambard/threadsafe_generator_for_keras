@@ -1,4 +1,4 @@
-# An "ultimate" thread safe data generation for Keras :zap::zap::zap: :satisfied:
+# An "ultimate" thread safe data generator for Keras :zap::zap::zap: :satisfied:
 
 If you use [Keras](https://keras.io) for training a neural network's model, you may use ```fit()``` or ```fit_generator()``` 
 functions (see [here](https://keras.io/models/sequential/#sequential-model-methods) for details). The latter is particularly 
