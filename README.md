@@ -11,6 +11,11 @@ useful when dealing with big datasets but you usually need to define a data gene
 ## But how?
 [keras.utils.Sequence()](https://keras.io/utils/#sequence) is your new friend!
 
+## System
+- python 3.6
+- keras 2.1.6
+- tensorflow(-gpu) 1.8.0
+
 ## Usage
 ```
 from keras.utils import Sequence
